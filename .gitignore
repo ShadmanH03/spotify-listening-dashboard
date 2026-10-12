@@ -48,3 +48,8 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Personal Spotify data — do not commit
+*.json
+ExtendedStreamingHistory_clean.csv
+data/
