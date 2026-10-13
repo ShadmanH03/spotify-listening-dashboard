@@ -27,6 +27,3 @@ cleaned and prepared in R.
 
 ## Files:
 - `SpotifyListeningHistoryDataCleaning.R` - Data merging and cleaning script
-
-## Note on Data:
-The raw data from Spotify contains personal data (including IP addresses) and are removed intentionally on this repo.  
