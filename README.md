@@ -1,4 +1,3 @@
-# spotify-listening-dashboard
 
 # Spotify Listening History Dashboard
 
@@ -6,12 +5,12 @@ An interactive Tableau dashboard analyzing ~10 years of my Spotify
 streaming history (1.3M+ minutes played), built from raw JSON exports
 cleaned and prepared in R.
 
-## Live Dashboard
+## Live Dashboard:
 [View it on Tableau Public](https://public.tableau.com/views/SpotifyListeningHistoryDashboard_17918362274180/SpotifyListeningHistory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ![Dashboard Screenshot](dashboard.png)
 
-## Tools
+## Tools:
 - **R** (`jsonlite`, `dplyr`, `lubridate`) — merging and cleaning raw data
 - **Tableau Public** — visualization and dashboard
 
@@ -27,4 +26,7 @@ cleaned and prepared in R.
 3. Loaded the cleaned CSV into Tableau and built five ways to interpret the data.
 
 ## Files:
-- 'SpotifyListeningHistoryDataCleaning
+- `SpotifyListeningHistoryDataCleaning.R` - Data merging and cleaning script
+
+## Note on Data:
+The raw data from Spotify contains personal data (including IP addresses) and are removed intentionally on this repo.  
