@@ -13,7 +13,7 @@ prepared in R, and visualized in both Tableau and Power BI.
 ## Power BI Version:
 The same data rebuilt in Microsoft Power BI - listening trends over time,
 top 20 artists and listening by hour of day.
-![Power BI Dashboard]
+![Power BI Dashboard](PowerBI_Dashboard.png)
 [Download the Power BI PDF](Spotify Listening History_PowerBI.pdf)
 ## Tools:
 - **R** (`jsonlite`, `dplyr`, `lubridate`) - merging and cleaning raw data
@@ -36,6 +36,7 @@ top 20 artists and listening by hour of day.
 3. Loaded the cleaned CSV into Tableau and Power Bi and built different ways to visualize the data.
 
 ## Files:
-- `SpotifyListeningHistoryDataCleaning.R` - Data merging and cleaning script
+- `SpotifyListeningHistoryDataCleaning.R` - data merging and cleaning script
 - `dashboard.png` — Tableau dashboard screenshot
 - `Spotify Listening History_PowerBI.pdf` - Power BI dashboard export
+- `PowerBI_Dashboard.png` - Power BI dashboard screenshot
