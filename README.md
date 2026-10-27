@@ -38,5 +38,5 @@ top 20 artists and listening by hour of day.
 ## Files:
 - `SpotifyListeningHistoryDataCleaning.R` - data merging and cleaning script
 - `dashboard.png` — Tableau dashboard screenshot
-- `Spotify Listening History_PowerBI.pdf` - Power BI dashboard export
+- `SpotifyListeningHistory_PowerBI.pdf` - Power BI dashboard export
 - `PowerBI_Dashboard.png` - Power BI dashboard screenshot
