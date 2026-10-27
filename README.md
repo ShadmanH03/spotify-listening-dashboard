@@ -14,7 +14,7 @@ prepared in R, and visualized in both Tableau and Power BI.
 The same data rebuilt in Microsoft Power BI - listening trends over time,
 top 20 artists and listening by hour of day.
 ![Power BI Dashboard](PowerBI_Dashboard.png)
-![Download the Power BI PDF](SpotifyListeningHistory_PowerBI.pdf)
+[Download the Power BI PDF](SpotifyListeningHistory_PowerBI.pdf)
 ## Tools:
 - **R** (`jsonlite`, `dplyr`, `lubridate`) - merging and cleaning raw data
 - **Tableau Public** - visualization and dashboard
